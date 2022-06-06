@@ -36,7 +36,6 @@ namespace Circle_Calculator
                 Console.WriteLine($"{area} cm2 ");
             }
 
-
             Console.ReadLine();
         }
     }
